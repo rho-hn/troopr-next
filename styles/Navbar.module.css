@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  justify-content: center;
+}
+.container {
+}
+.navbar {
+  text-align: center;
+}
+.item {
+  padding: 20px;
+  color: grey;
+}

@@ -1,0 +1,10 @@
+.heading {
+  margin-left: 50px;
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+}
+.para {
+  text-align: center;
+  text-decoration: dashed;
+}
